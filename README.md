@@ -1,7 +1,7 @@
 # api-action-locate-shorturl
 ### Checks if shorturl exists
 
-This yourls plugin creates an api that can be used to check if a shorturl (keyword) already exists in the db.  It returns the results of its findings in a json formatted string that can be used in another script, or however you want to use it.
+This yourls plugin creates an api that can be used to check if a shorturl (keyword) already exists in the db.  It returns the results of its findings in either JSON or XML format that can be used in another script, or however you want to use it.
 
 Example usage:
 
