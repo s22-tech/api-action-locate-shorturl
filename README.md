@@ -3,9 +3,13 @@
 
 This yourls plugin creates an api that can be used to check if a shorturl (keyword) already exists in the db.  It returns the results of its findings in either JSON or XML format that can be used in another script, or however you want to use it.
 
-Example usage:
-
+###### Example usage:
 `https://example.com/yourls-api.php?username=admin&password=xxxx&action=locate_shorturl&keyword=abc101&format=json`
+
+###### Installation
+
+Install this plugin in a directory called `api-action-locate-shorturl` in the `/user/plugins/` path.
+Then activate it in the Manage Plugins section of the admin panel.
 
 ###### Addendum
 
