@@ -8,8 +8,8 @@ This yourls plugin creates an api that can be used to check if a shorturl (keywo
 
 ###### Installation
 
-Install this plugin in a directory called `api-action-locate-shorturl` in the `/user/plugins/` path.
-Then activate it in the Manage Plugins section of the admin panel.
+Install this plugin in the `yourls-install/user/plugins/` path.
+Then activate it in the Manage Plugins admin section.
 
 ###### Addendum
 
